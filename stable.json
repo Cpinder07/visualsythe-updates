@@ -1,7 +1,7 @@
 {
   "channel": "stable",
-  "version": "1.0.1",
-  "build": 1,
-  "url": "builds/VisualSythe-1.zip",
-  "sha256": "199aca546f2d9254e25d081e602dcde4ecc2a2fc069143c09e1a007c95929c29"
+  "version": "1.0.2",
+  "build": 2,
+  "url": "builds/Prismx-2.zip",
+  "sha256": "c0372a7766cee7776d5d99fb8a1124260d56bcaff47a852d340d36b86dd682ec"
 }
