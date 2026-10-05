@@ -1,7 +1,7 @@
-{
-  "channel": "stable",
-  "version": "1.0.19",
-  "build": 19,
-  "url": "builds/Prismx-19.zip",
-  "sha256": "54b66181e984fe8710925e7c2ba0c60377bdf381a685d9ac399b72801afb190b"
+﻿{
+    "url":  "http://24.144.112.191/builds/Prismx-20.zip",
+    "channel":  "stable",
+    "build":  20,
+    "version":  "1.0.20",
+    "sha256":  "f46af5228c744ad3f433a9deb92a5f0c1efa24f03737f8cd63ef00aa8f651713"
 }
